@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --box-background-color: rgba(265, 165, 0, 0.3);
+    --box-border-color: rgb(265, 165, 0);
+    --even-box-background-color: rgb(165, 42, 42);
+    --button-background-color: rgb(154, 154, 154);
+    --button-text-color: rgb(0, 0, 0);
+    --button-hover-background-color: rgb(0, 0, 0);
+    --button-hover-text-color: rgb(255, 255, 255);
+}
+
+header,
+main{
+    width: 50px;
+    margin: 0px auto;
+}
